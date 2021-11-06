@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Le Thi Nhu Y
+## Hi there 👋 I'm Le Thi Nhu Y
 #### I'm a computer science student from Vietnam
 
 - 🌱 I’m currently learning at University of Information Technology
